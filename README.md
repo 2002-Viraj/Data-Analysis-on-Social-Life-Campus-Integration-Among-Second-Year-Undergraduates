@@ -80,7 +80,7 @@ Reliability was tested using **Cronbach’s Alpha**.
 
 ## 🛠 Tools Used
 - Statistical analysis software
-- - R software
+  - R software
   - Spss
   - excel
 - Excel for data handling and visualization  

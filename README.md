@@ -1,7 +1,7 @@
 # Data-Analysis-on-Social-Life-Campus-Integration-Among-Second-Year-Undergraduates
 Data Analysis on Social Life &amp; Campus Integration Among Second-Year Undergraduates
 # Social Life & Campus Integration Among Second-Year Undergraduates
-<img width="1116" height="1229" alt="image" src="https://github.com/user-attachments/assets/204684d5-d503-48a1-802a-8427ce25c489" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/204684d5-d503-48a1-802a-8427ce25c489" />
 
 ## 📊 Project Overview
 This project analyzes **social engagement and campus integration** among second-year undergraduates in the **Faculty of Science**.  
